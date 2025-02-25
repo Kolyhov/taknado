@@ -3,6 +3,12 @@
 ![Разработка UI/UX дизайна в Canva](https://github.com/Kolyhov/Horse_android/blob/main/IMAGE%202025-02-09%2013%3A49%3A20.jpg)
 
 
+
+=====================
+ФІГМА: https://www.figma.com/design/atIoKMypXLPVGG27rduSOA/Crazy-Horse?node-id=0-1&t=BdzTJHU6oYkiAZJd-1
+
+
+
 Опис проєкту гри "Crazy Horse"
 Суть гри:
 "Crazy Horse" — це мобільна гра, що нагадує шахи, де гравець керує шаховим конем і проходить рівні. Мета кожного рівня — правильно та послідовно переміщати коня по шаховій дошці, уникаючи помилок і досягаючи заданої точки.
