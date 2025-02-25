@@ -3,9 +3,6 @@
 
 ![Разработка UI/UX дизайна в Canva](https://github.com/Kolyhov/Horse_android/blob/main/IMAGE%202025-02-09%2013%3A49%3A20.jpg)
 
-*Была опублікована на популярних платформах
-![Опубликована на нескольких популярных площадках](https://github.com/Kolyhov/Horse_android/blob/main/asd.png)
-
 
 
 такс вот водная инфа для README которую дал чат гпт 
