@@ -1,11 +1,6 @@
-# Crazy Horse - Android & IOS game
-Розроблена в фівфівфівфів.
+# Crazy Horse - Android
 
 ![Разработка UI/UX дизайна в Canva](https://github.com/Kolyhov/Horse_android/blob/main/IMAGE%202025-02-09%2013%3A49%3A20.jpg)
-
-
-
-такс вот водная инфа для README которую дал чат гпт 
 
 
 Опис проєкту гри "Crazy Horse"
